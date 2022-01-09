@@ -10,7 +10,7 @@ This is my understanding about branching.
   
 I add some markdown syntax to the lines above. Let's see how it works.
 
-It worked well! Cool! Also,I'm adding some emoji to this text. ":emojicode:",用这个方法可以添加emoji，在两个冒号内输入对应的emojicode就可以了，例如:+1:是点赞的emoji。
+It worked well! Cool! Also,I'm adding some emoji to this text. ":emojicode:",用这个方法可以添加emoji，在两个冒号内输入对应的emojicode就可以了，例如: +1 :是点赞的emoji :+1:。
 please check this page for [basic writing and formatting syntax on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 I'm merging this branch to the main branch. Good luck! 👍 👍 👍
 
