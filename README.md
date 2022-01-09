@@ -14,4 +14,4 @@ It worked well! Cool! Also,I'm adding some emoji to this text. Github FAQ says I
 please check this page for [basic writing and formatting syntax on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 I'm merging this branch to the main branch. Good luck! 👍 👍 👍
 
-markdown语法还挺难用的，换行需要末尾两空格再加回车，或者用“<br>”,我哪会html的语言啊hai！迟早要学的。暂时就这么多。我merge这个branch到main先。
+markdown语法还挺难用的，换行需要末尾两空格再加回车，或者用“< br >”,我哪会html的语言啊hai！迟早要学的。暂时就这么多。我merge这个branch到main先。
